@@ -1,2 +1,2 @@
-# My-practice-
+# My-practice
 My first Java program 
